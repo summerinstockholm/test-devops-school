@@ -1,0 +1,4 @@
+# Created by cloud-init v. 22.1-14-g2e17a0d6-0ubuntu1~20.04.3 on Fri, 06 May 2022 09:39:41 +0000
+
+# User rules for catware
+catware ALL=(ALL) NOPASSWD:ALL
